@@ -23,10 +23,12 @@
  </OUTPUT_FILES>
  <LABELS>
   <SETUP><FILE>C:\Users\razer\OneDrive\Documentos\GitHub\PreLab1-Contador\PreLa1\PreLa1\main.asm</FILE><LINE>20</LINE></SETUP>
-  <MAIN><FILE>C:\Users\razer\OneDrive\Documentos\GitHub\PreLab1-Contador\PreLa1\PreLa1\main.asm</FILE><LINE>30</LINE></MAIN>
-  <INCREMENT><FILE>C:\Users\razer\OneDrive\Documentos\GitHub\PreLab1-Contador\PreLa1\PreLa1\main.asm</FILE><LINE>38</LINE></INCREMENT>
-  <DECREMENT><FILE>C:\Users\razer\OneDrive\Documentos\GitHub\PreLab1-Contador\PreLa1\PreLa1\main.asm</FILE><LINE>46</LINE></DECREMENT>
-  <RETARDO><FILE>C:\Users\razer\OneDrive\Documentos\GitHub\PreLab1-Contador\PreLa1\PreLa1\main.asm</FILE><LINE>55</LINE></RETARDO>
-  <DELAY><FILE>C:\Users\razer\OneDrive\Documentos\GitHub\PreLab1-Contador\PreLa1\PreLa1\main.asm</FILE><LINE>58</LINE></DELAY>
+  <MAIN><FILE>C:\Users\razer\OneDrive\Documentos\GitHub\PreLab1-Contador\PreLa1\PreLa1\main.asm</FILE><LINE>34</LINE></MAIN>
+  <INCREMENT><FILE>C:\Users\razer\OneDrive\Documentos\GitHub\PreLab1-Contador\PreLa1\PreLa1\main.asm</FILE><LINE>46</LINE></INCREMENT>
+  <DECREMENT><FILE>C:\Users\razer\OneDrive\Documentos\GitHub\PreLab1-Contador\PreLa1\PreLa1\main.asm</FILE><LINE>55</LINE></DECREMENT>
+  <INCREMENT2><FILE>C:\Users\razer\OneDrive\Documentos\GitHub\PreLab1-Contador\PreLa1\PreLa1\main.asm</FILE><LINE>64</LINE></INCREMENT2>
+  <DECREMENT2><FILE>C:\Users\razer\OneDrive\Documentos\GitHub\PreLab1-Contador\PreLa1\PreLa1\main.asm</FILE><LINE>73</LINE></DECREMENT2>
+  <RETARDO><FILE>C:\Users\razer\OneDrive\Documentos\GitHub\PreLab1-Contador\PreLa1\PreLa1\main.asm</FILE><LINE>83</LINE></RETARDO>
+  <DELAY><FILE>C:\Users\razer\OneDrive\Documentos\GitHub\PreLab1-Contador\PreLa1\PreLa1\main.asm</FILE><LINE>86</LINE></DELAY>
  </LABELS>
 </ASSEMBLER_INFO>
